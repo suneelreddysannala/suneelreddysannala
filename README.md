@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suneel Reddy Sannala</h1>
 <h3 align="center">A passionate Full Stack Developer , AI enthusiast and problem solver .</h3>
 
-- 🔭 I’m currently working on **SIH project given by ISRO**
+- 🔭 I’m currently working on ** Improving my prblem solving ability through DSA **
 
 - 🌱 I’m currently learning **Django ,REACT and deep learning frameworks.**
 
 - 👯 I’m looking to collaborate on **Full stack web applications**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with ** Cloud **
 
 - 👨‍💻 All of my projects are available at [here](https://suneelreddysannala.github.io/portfolio/)
 
