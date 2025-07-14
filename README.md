@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with ** Cloud **
 
-- 👨‍💻 All of my projects are available at [here](https://suneelreddysannala.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://suneelreddyme.vercel.app/)
 
 - 💬 Ask me about **Django , python and web development .**
 
